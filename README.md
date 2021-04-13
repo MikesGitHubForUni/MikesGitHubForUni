@@ -1,4 +1,5 @@
 ### Hi there 👋
+### This is Mikes GitHub Account for University Projects :)
 
 <!--
 **MikesGitHubForUni/MikesGitHubForUni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
